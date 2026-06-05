@@ -1,6 +1,7 @@
 {
   "name": "octofit-frontend",
   "version": "0.0.0",
+  "comment": "\"react\": \"^19\"",
   "private": true,
   "scripts": {
     "dev": "vite",

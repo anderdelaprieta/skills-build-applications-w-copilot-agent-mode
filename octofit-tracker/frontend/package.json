@@ -1,7 +1,6 @@
 {
-  "name": "octofit-frontend",
+  "name": "frontend",
   "version": "0.0.0",
-  "comment": "\"react\": \"^19\"",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -11,5 +10,9 @@
   "dependencies": {
     "react": "^19",
     "react-dom": "^19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
   }
 }
